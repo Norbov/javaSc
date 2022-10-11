@@ -1,1 +1,8 @@
-# javaSc
+# Második óra
+
+- Új Node.js-projekt létrehozása és a függőségek kezelése anyag
+- Anyag követépse és feladatok elvégzése
+- Teszt kitöltése
+
+- Node.js-alkalmazások interaktív hibakeresése a beépített hibakeresővel és a Visual Studio Code hibakeresőjével anyag
+- Anyag követépse és feladatok elvégzése
