@@ -17,3 +17,6 @@
 
 ## Node.js-alkalmazások interaktív hibakeresése a beépített hibakeresővel és a Visual Studio Code hibakeresőjével anyag
 - Anyag követépse és feladatok elvégzése
+![2-1](https://user-images.githubusercontent.com/92054638/195063166-0f413686-f740-4216-86af-446d9045df60.PNG)
+![2-2](https://user-images.githubusercontent.com/92054638/195063174-4a6c1fab-9b62-4853-9c57-3c87809ff662.PNG)
+![2-3](https://user-images.githubusercontent.com/92054638/195063183-fbb1f1f1-bee0-44d3-9bd6-ac3473956e9f.PNG)
